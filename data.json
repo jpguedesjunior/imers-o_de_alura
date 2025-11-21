@@ -1,0 +1,50 @@
+[
+    {
+        "nome": "JavaScript",
+        "descricao": "Uma linguagem de programação leve, interpretada e orientada a objetos.",
+        "usos": ["Desenvolvimento web", "Aplicações móveis", "Desenvolvimento de servidores"],
+        "criador": "Brendan Eich",
+        "ano_de_criacao": 1995,
+        "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+    },
+    {
+        "nome": "Python",
+        "descricao": "Uma linguagem de programação de alto nível, interpretada e de propósito geral.",
+        "usos": ["Desenvolvimento web", "Ciência de dados", "Automação", "Inteligência artificial"],
+        "criador": "Guido van Rossum",
+        "ano_de_criacao": 1991,
+        "link": "https://www.python.org/"
+    },
+    {
+        "nome": "Java",
+        "descricao": "Uma linguagem de programação orientada a objetos, de propósito geral e baseada em classes.",
+        "usos": ["Aplicações empresariais", "Desenvolvimento Android", "Aplicações web", "Big Data"],
+        "criador": "James Gosling",
+        "ano_de_criacao": 1995,
+        "link": "https://www.java.com/"
+    },
+    {
+        "nome": "C#",
+        "descricao": "Uma linguagem de programação moderna, orientada a objetos e desenvolvida pela Microsoft.",
+        "usos": ["Desenvolvimento de jogos (Unity)", "Aplicações Windows", "Serviços web", ".NET"],
+        "criador": "Anders Hejlsberg",
+        "ano_de_criacao": 2000,
+        "link": "https://docs.microsoft.com/pt-br/dotnet/csharp/"
+    },
+    {
+        "nome": "PHP",
+        "descricao": "Uma linguagem de script de uso geral, especialmente adequada para o desenvolvimento web.",
+        "usos": ["Desenvolvimento de sites dinâmicos", "Sistemas de gerenciamento de conteúdo (CMS)", "Aplicações web"],
+        "criador": "Rasmus Lerdorf",
+        "ano_de_criacao": 1994,
+        "link": "https://www.php.net/"
+    },
+    {
+        "nome": "Go",
+        "descricao": "Uma linguagem de programação compilada e de código aberto projetada no Google.",
+        "usos": ["Programação de sistemas", "Serviços de rede", "Microsserviços", "Ferramentas de linha de comando"],
+        "criador": "Robert Griesemer, Rob Pike e Ken Thompson",
+        "ano_de_criacao": 2009,
+        "link": "https://golang.org/"
+    }
+]
