@@ -1,0 +1,1 @@
+Base de Conhecimento: Projeto Imersão Dev (Alura): Desenvolvimento de uma página web responsiva ("Base de Conhecimento") utilizando HTML5, CSS3 e JavaScript com node.js puro para conteúdo informativo.
